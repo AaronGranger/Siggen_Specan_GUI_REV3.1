@@ -25,4 +25,3 @@ extern int advanced;
 extern bool ppeOFF;
 extern bool avgOFF;
 
-//extern bool pause;
